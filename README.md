@@ -2,6 +2,7 @@
 
 [Orion猎户座的继承者— Scorpius天蝎座](http://www.jianshu.com/p/44e5a4ed4e0e)
 
+Github: https://github.com/scorpiusjs/scorpius
 
 ## 使用方法
 ```
